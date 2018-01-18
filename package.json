@@ -1,0 +1,25 @@
+{
+  "name": "bootstrap4",
+  "version": "1.0.0",
+  "description": "Modificación SASS Bootstrap 4",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap4"
+  ],
+  "author": "iramirez@atsistemas.com",
+  "homepage": "https://github.com/isrart/Bootstrap4-simple-modification",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "*"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.23.5",
+    "cssnano": "^3.10.0",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
