@@ -1,0 +1,8 @@
+$primary: rgba(red, .7);
+$secondary:  rgba(blue, 0.2);
+
+$breadcrumb-divider: "\f2b9" !default;
+
+.breadcrumb-item+.breadcrumb-item:before {
+  font-family: fontawesome;
+}
